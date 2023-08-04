@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SearchMe-AI**
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m currently learning **Data Science**
 
 - 🤝 I’m looking for help with **React, Python**
 
